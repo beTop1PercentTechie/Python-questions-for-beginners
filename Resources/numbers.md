@@ -83,7 +83,7 @@ def round_number(num, decimals=0):
     return round(num, decimals)
 
 # Example usage
-print(round_number(3.14159))     # Output: 3
+print(round_number(3.14159))     # Output: 3.0
 print(round_number(3.14159, 2))  # Output: 3.14
 ```
 
