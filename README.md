@@ -23,11 +23,11 @@ Simply click on the links below to get started and dive into a world of learning
 ## 🏆 Python Coding Challenges by Topic:
 
 ### 1. [Numbers](./Resources/numbers.md)
-1. Find Max and Min in a List
-2. Remove Duplicates
-3. Split List into Chunks
-4. Find Common Elements in Two Lists
-5. Sort a List by Custom Criteria
+1. Convert String to Number
+2. Round a Number 
+3. Generate a Random Number in a Range  
+4. Calculate Factorial 
+5. Find GCD of Two Numbers
 
 ### 2. [Strings](./Resources/strings.md)
 6. Check for Palindrome
